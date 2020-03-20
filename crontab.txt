@@ -1,0 +1,1 @@
+30 4 * * * cd /usr/src/app/ && /usr/local/bin/python export.py >> /var/log/export.log 2>&1

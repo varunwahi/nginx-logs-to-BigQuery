@@ -1,0 +1,1 @@
+# jwilder/nginx-proxy individual nginx container logs to BigQuery
